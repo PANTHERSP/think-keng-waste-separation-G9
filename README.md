@@ -1,4 +1,4 @@
-# Waste Separation
+# Thing-keng (Waste Separation)
 
 ## วิดีโอการเปิดและรันโค้ด
   https://img.youtube.com/vi/VWW7uyc6OeU/maxresdefault.jpg)](https://youtu.be/VWW7uyc6OeU?si=rSJ6QIYfXsKpS37v
